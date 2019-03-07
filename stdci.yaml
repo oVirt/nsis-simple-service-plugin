@@ -1,8 +1,0 @@
----
-Distributions:
-  - el7
-  - fc28
-Release branches:
-  master:
-    - ovirt-master
-    - ovirt-4.2
